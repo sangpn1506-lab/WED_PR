@@ -69,7 +69,7 @@ const DEFAULT_SITE_CONFIG = {
     slogan: 'Dolia xinh nhất cái đất AOV',
     bio: 'Xin chào! Mình là Nguyên Sang, một người yêu thích sáng tạo nội dung, chỉnh sửa video và công nghệ. Đây là không gian cá nhân nơi mình chia sẻ những dự án, sản phẩm sáng tạo và các nền tảng để kết nối với mình.',
     location: 'Việt Nam',
-    avatarUrl: 'https://postimg.cc/0rKNXxWt',
+    avatarUrl: 'https://i.postimg.cc/CMmf1xjV/Dolia-(1).jpg',
     email: 'sangpn1506@gmail.com',
     isOpenForCollab: true,
     formEndpoint: '',
